@@ -1,6 +1,9 @@
-### Hi. My name is Joelchrist Abreu. 👋
 
-I am a Full Stack Software Engineer who enjoys collaboration and problem solving. 🤔 Some technologies that I enjoy using includes ReactJS, Javascript, Express and Node.js. At the moment, I am learning more about real-time technologies such as Socket.io. I am also learning Typescript and all of its nuances. Aside from development, I often enjoy video games and going on hikes with my dog. 🐕
+![Joelchrist](https://user-images.githubusercontent.com/67124370/145259799-cfd3f487-4ea4-41d4-9d61-329bf221c5c5.gif)
+
+ ## Hi. My name is Joelchrist Abreu. 👋
+
+I am a Full Stack Engineer who enjoys collaboration and problem solving. 🤔 Some technologies that I enjoy using includes ReactJS, Javascript, Express and Node.js. At the moment, I am learning more about real-time technologies such as Socket.io. I am also learning Typescript and all of its nuances. Aside from development, I often enjoy video games and going on hikes with my dog. 🐕
 <!--
 **JAbreu96/JAbreu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
