@@ -2,8 +2,11 @@
 ![Joelchrist](https://user-images.githubusercontent.com/67124370/145259799-cfd3f487-4ea4-41d4-9d61-329bf221c5c5.gif)
 
  ## Hi. My name is Joelchrist Abreu. 👋
+And I am a Software Engineer who is based in New York! 💻. Before my journey into tech, I produced and engineered music! I was doing this for about 8 years. I really enjoyed making House, Drum and Bass, and Dubstep. 
 
-I am a Full Stack Engineer who enjoys collaboration and problem solving. 🤔 Some technologies that I enjoy using includes ReactJS, Javascript, Express and Node.js. At the moment, I am learning more about real-time technologies such as Socket.io. I am also learning Typescript and all of its nuances. Aside from development, I often enjoy video games and going on hikes with my dog. 🐕
+My journey into software engineering began the semester before graduating college. That's how I ended up here today. 😇 I enjoy working across the stack, which includes writing SQL queries for the backend or designing and implementing components on a React-based Front End! But most importantly, I love learning new things!
+
+I have hands-on experience with React, Javascript, Node.js, Express, HTML, CSS, MongoDB, MySQL, Postgres, Docker, and AWS. These days, I find myself fiddling with React within my personal projects. I am looking for a role that is focused on User Interfaces.
 <!--
 **JAbreu96/JAbreu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
